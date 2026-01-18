@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6366f1&height=120&section=header&text=Pieers%20Fernando&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:6366f1&height=120&section=header&text=pieersx&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Full+Stack+Developer+%7C+Systems+Engineering+Student;Building+scalable+solutions+for+real-world+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-pieersx-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pieersx)
 [![Email](https://img.shields.io/badge/-pieersx@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pieersx@gmail.com)
@@ -20,7 +20,7 @@
 - 🎯 **Enfocado en:** Desarrollo Full Stack, Clean Architecture, APIs RESTful
 - 📚 **Actualmente aprendiendo:** Cloud Computing (AWS/GCP), CI/CD, Testing
 - 💼 **Disponible para:** Posiciones Junior/Trainee en desarrollo de software
-- 🌎 **Idiomas:** Español (Nativo) • Inglés (Técnico)
+- 🌎 **Idiomas:** Español (Nativo) • Inglés (básico)
 
 ---
 
@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pieersx&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e"/>
+  <img src="https://streak-stats.demolab.com/?user=pieersx&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e"/>
 </div>
 
 ---
