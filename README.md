@@ -70,7 +70,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pieersx&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e"/>
+  <img src="https://streak-stats.vercel.app/?user=pieersx&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f97316&currStreakLabel=6366f1&dates=8b949e"/>
 </div>
 
 ---
